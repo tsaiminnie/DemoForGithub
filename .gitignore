@@ -1,2 +1,3 @@
 #ignore these items
-blah blah
+Added DS_Store to ignore
+.DS_Store
